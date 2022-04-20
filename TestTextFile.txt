@@ -1,0 +1,5 @@
+#Test file
+
+This is an example of a file you may include in your repo.
+The idea is to create folders, with the materials.
+But also keep working on them, and get used to using git. 
